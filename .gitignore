@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+out/*
+!out/yoigane.srt
+!out/audio/
+out/audio/*
+!out/audio/cues.json
